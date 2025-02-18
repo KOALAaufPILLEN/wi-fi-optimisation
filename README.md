@@ -1,3 +1,5 @@
+![277316894-401f5135-cf60-4708-8372-48a082dc8003](https://github.com/user-attachments/assets/57214ebe-dde8-46e1-8acb-dbaea11ef0f2)
+
 # Wi-Fi Optimization Script
 
 This PowerShell script is designed to optimize your Windows device's Wi-Fi settings for the best signal strength.
